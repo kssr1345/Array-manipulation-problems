@@ -1,6 +1,6 @@
 # Array-manipulation-problems
  Array manipulation problems and their discussion 
- questions:
+ # Questions:
  # Q1 Given a sorted array of positive integers. Your task is to rearrange  the array elements alternatively i.e first element should be max value, second should be min value, third should be second max, fourth should be second min and so on.
  # example
  Input:
